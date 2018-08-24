@@ -1,4 +1,4 @@
-FROM dorowu/ubuntu-desktop-lxde-vnc
+FROM dorowu/ubuntu-desktop-lxde-vnc:xenial
 MAINTAINER haoling
 
 RUN apt-get update &&\
